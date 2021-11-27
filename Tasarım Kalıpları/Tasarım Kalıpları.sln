@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Singleton Tasarım", "1-S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Factory Method Design", "4-Factory Method Design\4-Factory Method Design.csproj", "{0701DA48-4AB9-4CA1-B043-C717DEB18690}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-Abstract Factory Design", "5-Abstract Factory Design\5-Abstract Factory Design.csproj", "{1C4092E4-D215-48C5-ABBA-14F0D60C3F83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0701DA48-4AB9-4CA1-B043-C717DEB18690}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0701DA48-4AB9-4CA1-B043-C717DEB18690}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0701DA48-4AB9-4CA1-B043-C717DEB18690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4092E4-D215-48C5-ABBA-14F0D60C3F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4092E4-D215-48C5-ABBA-14F0D60C3F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4092E4-D215-48C5-ABBA-14F0D60C3F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4092E4-D215-48C5-ABBA-14F0D60C3F83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

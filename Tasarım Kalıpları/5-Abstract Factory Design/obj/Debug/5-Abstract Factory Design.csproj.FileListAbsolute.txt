@@ -1,0 +1,8 @@
+D:\Git_MYProje\tasarimkaliplari\Tasarım Kalıpları\5-Abstract Factory Design\bin\Debug\5-Abstract Factory Design.exe.config
+D:\Git_MYProje\tasarimkaliplari\Tasarım Kalıpları\5-Abstract Factory Design\bin\Debug\5-Abstract Factory Design.exe
+D:\Git_MYProje\tasarimkaliplari\Tasarım Kalıpları\5-Abstract Factory Design\bin\Debug\5-Abstract Factory Design.pdb
+D:\Git_MYProje\tasarimkaliplari\Tasarım Kalıpları\5-Abstract Factory Design\obj\Debug\5-Abstract Factory Design.csproj.AssemblyReference.cache
+D:\Git_MYProje\tasarimkaliplari\Tasarım Kalıpları\5-Abstract Factory Design\obj\Debug\5-Abstract Factory Design.csproj.SuggestedBindingRedirects.cache
+D:\Git_MYProje\tasarimkaliplari\Tasarım Kalıpları\5-Abstract Factory Design\obj\Debug\5-Abstract Factory Design.csproj.CoreCompileInputs.cache
+D:\Git_MYProje\tasarimkaliplari\Tasarım Kalıpları\5-Abstract Factory Design\obj\Debug\5-Abstract Factory Design.exe
+D:\Git_MYProje\tasarimkaliplari\Tasarım Kalıpları\5-Abstract Factory Design\obj\Debug\5-Abstract Factory Design.pdb
