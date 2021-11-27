@@ -1,4 +1,4 @@
-﻿namespace _5_Abstract_Factory_Design
+﻿namespace _5_Abstract_Factory_Design 
 {
     public abstract class Logging
     {

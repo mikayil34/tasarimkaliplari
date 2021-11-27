@@ -43,12 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Caching.cs" />
+    <Compile Include="Caching\Caching.cs" />
     <Compile Include="CrossCuttingConcernsFactory1.cs" />
+    <Compile Include="Factory\Factory1.cs" />
+    <Compile Include="Factory\Factory2.cs" />
     <Compile Include="IProductManager.cs" />
-    <Compile Include="logging.cs" />
+    <Compile Include="Logging\log4NetLogger.cs" />
+    <Compile Include="Logging\logging.cs" />
+    <Compile Include="Caching\MemChac.cs" />
+    <Compile Include="Logging\NLogger.cs" />
+    <Compile Include="ProductManager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Caching\RedisChac.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

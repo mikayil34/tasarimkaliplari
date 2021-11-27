@@ -2,5 +2,7 @@
 {
     public interface IProductManager
     {
+        void GetAll();
+
     }
 }
