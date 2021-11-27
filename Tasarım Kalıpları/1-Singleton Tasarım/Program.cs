@@ -19,6 +19,7 @@ namespace _1_Singleton_Tasarım
 
     class CostumManeger
     {
+        static object _logObject = new object();
         static CostumManeger _costumManeger;
         private CostumManeger()
         {
@@ -26,11 +27,18 @@ namespace _1_Singleton_Tasarım
         }
         public static CostumManeger CreateAsSingleton()
         {
-            return _costumManeger ?? (_costumManeger = new CostumManeger());
+            lock (_logObject)
+            {
+                if (_costumManeger == null)
+                {
+                    _costumManeger = new CostumManeger();
+                }
 
+            }
+            return _costumManeger;
         }
-        public  void Save()
-        { 
+        public void Save()
+        {
             Console.WriteLine("Saved");
             Console.ReadLine();
         }
