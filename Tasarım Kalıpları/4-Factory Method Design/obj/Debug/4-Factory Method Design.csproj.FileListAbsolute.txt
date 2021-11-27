@@ -1,0 +1,8 @@
+D:\Git_MYProje\tasarimkaliplari\Tasarım Kalıpları\4-Factory Method Design\bin\Debug\4-Factory Method Design.exe.config
+D:\Git_MYProje\tasarimkaliplari\Tasarım Kalıpları\4-Factory Method Design\bin\Debug\4-Factory Method Design.exe
+D:\Git_MYProje\tasarimkaliplari\Tasarım Kalıpları\4-Factory Method Design\bin\Debug\4-Factory Method Design.pdb
+D:\Git_MYProje\tasarimkaliplari\Tasarım Kalıpları\4-Factory Method Design\obj\Debug\4-Factory Method Design.csproj.AssemblyReference.cache
+D:\Git_MYProje\tasarimkaliplari\Tasarım Kalıpları\4-Factory Method Design\obj\Debug\4-Factory Method Design.csproj.SuggestedBindingRedirects.cache
+D:\Git_MYProje\tasarimkaliplari\Tasarım Kalıpları\4-Factory Method Design\obj\Debug\4-Factory Method Design.csproj.CoreCompileInputs.cache
+D:\Git_MYProje\tasarimkaliplari\Tasarım Kalıpları\4-Factory Method Design\obj\Debug\4-Factory Method Design.exe
+D:\Git_MYProje\tasarimkaliplari\Tasarım Kalıpları\4-Factory Method Design\obj\Debug\4-Factory Method Design.pdb

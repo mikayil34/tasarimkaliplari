@@ -10,6 +10,7 @@ namespace _1_Singleton_Tasarım
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("_1_Singleton_Tasarım");
             var costumManeger = CostumManeger.CreateAsSingleton();
             costumManeger.Save();
 
