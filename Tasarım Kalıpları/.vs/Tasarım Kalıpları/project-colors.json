@@ -5,7 +5,32 @@
       "ProjectGuid": "39019504-c25d-41d3-964c-f2098923829b",
       "DisplayName": "Tasarım Kalıpları",
       "ColorIndex": 0
+    },
+    "c81e3bc1-8f50-4e87-b958-dab7effa0ab1": {
+      "ProjectGuid": "c81e3bc1-8f50-4e87-b958-dab7effa0ab1",
+      "DisplayName": "1-Singleton Tasarım",
+      "ColorIndex": 1
+    },
+    "c67bb810-55e1-4e7b-b252-a7851478fe4a": {
+      "ProjectGuid": "c67bb810-55e1-4e7b-b252-a7851478fe4a",
+      "DisplayName": "Factory Method Design",
+      "ColorIndex": 2
+    },
+    "0701da48-4ab9-4ca1-b043-c717deb18690": {
+      "ProjectGuid": "0701da48-4ab9-4ca1-b043-c717deb18690",
+      "DisplayName": "4-Factory Method Design",
+      "ColorIndex": 3
+    },
+    "1c4092e4-d215-48c5-abba-14f0d60c3f83": {
+      "ProjectGuid": "1c4092e4-d215-48c5-abba-14f0d60c3f83",
+      "DisplayName": "5-Abstract Factory Design",
+      "ColorIndex": 4
+    },
+    "1712634e-7d3d-4318-b2f6-3c0acc507200": {
+      "ProjectGuid": "1712634e-7d3d-4318-b2f6-3c0acc507200",
+      "DisplayName": "6_Prototype Deseni",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 6
 }
