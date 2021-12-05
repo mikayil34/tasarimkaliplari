@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_Prototype Deseni", "6_Pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_Builder Deseni", "7_Builder Deseni\7_Builder Deseni.csproj", "{D1185082-BB83-4F72-8B3A-6C06CA8CF14F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8_Facade Deseni", "8_Facade Deseni\8_Facade Deseni.csproj", "{3C2C7270-C633-4B43-8614-F7B8894E811E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D1185082-BB83-4F72-8B3A-6C06CA8CF14F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1185082-BB83-4F72-8B3A-6C06CA8CF14F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1185082-BB83-4F72-8B3A-6C06CA8CF14F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C2C7270-C633-4B43-8614-F7B8894E811E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C2C7270-C633-4B43-8614-F7B8894E811E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C2C7270-C633-4B43-8614-F7B8894E811E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C2C7270-C633-4B43-8614-F7B8894E811E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

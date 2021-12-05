@@ -30,7 +30,17 @@
       "ProjectGuid": "1712634e-7d3d-4318-b2f6-3c0acc507200",
       "DisplayName": "6_Prototype Deseni",
       "ColorIndex": 5
+    },
+    "d1185082-bb83-4f72-8b3a-6c06ca8cf14f": {
+      "ProjectGuid": "d1185082-bb83-4f72-8b3a-6c06ca8cf14f",
+      "DisplayName": "7_Builder Deseni",
+      "ColorIndex": 6
+    },
+    "3c2c7270-c633-4b43-8614-f7b8894e811e": {
+      "ProjectGuid": "3c2c7270-c633-4b43-8614-f7b8894e811e",
+      "DisplayName": "8_Facade Deseni",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 8
 }
