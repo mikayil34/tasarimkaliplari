@@ -1,4 +1,3 @@
-[Google](https://www.google.com/)
 
 - Tasarım desenleri, yazılım tasarımı sırasında karşılaşılan genel sorunlara yönelik çözümler sunan tekrar eden ve erişilebilir çözümlerdir. Bu desenler, yazılım geliştiricilerinin daha tutarlı, yeniden kullanılabilir ve esnek kodlar yazmalarına yardımcı olabilir.
 - Bu tasarım kalıpları, tekrar eden problemlere yönelik önceden test edilmiş ve denenmiş çözümlerdir. Her kalıp, farklı bir problemi çözmek için tasarlanmıştır ve yazılım geliştirme sürecinde kullanılan en yaygın ve örnek alınan kalıplardır.
